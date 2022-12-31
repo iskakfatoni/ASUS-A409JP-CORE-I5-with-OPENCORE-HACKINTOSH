@@ -12,3 +12,6 @@
 - USB Wirelles : TP Link
 - MacOS Storage : 512 PNY ssd m2.nvme
 - WebCam: onboard
+
+
+![Pic](https://github.com/iskakfatoni/ASUS-A409JP-CORE-I5-with-OPENCORE-HACKINTOSH/blob/a31aed5281aa108a89ea0fd570ee52057b96109e/WhatsApp%20Image%202022-12-31%20at%2007.40.50.jpeg)
