@@ -2,13 +2,13 @@
 ## ASUS A409JP CORE I5 with OPENCORE HACKINTOSH
 
 ## Spec :
-- Procie : Intel Core i7 6700K 3,41ghz
-- Mobo : ASUS Z270 TUF MARK1
-- Monitor : Samsung Curved 24"
-- RAM : 16Gb ddr4 3200 Team TForce RGB
-- Graphics : Saphire Nitro+ RX580 8Gb
-- Sound : ALCS1220A
-- Ethernet : I1219V Ethernet and I1211 Gigabit Ethernet (both worked)
-- Wirelles : TP-Link TP-WDN4800 (not work yet)
-- MacOS Storage : 256Gb Player SSD nvme (via adapter pcie to nvme)
-- WebCam: Logitech C525
+- Procie : Intel Core i5
+- RAM : 12Gb ddr4
+- eGPU : NVIDIA MX330 (disabled)
+- iGPU : Intel HD Graphics
+- Sound : ALC256
+- Ethernet : none
+- Wirelles : Intel AC (Not worked)
+- USB Wirelles : TP Link
+- MacOS Storage : 512 PNY ssd m2.nvme
+- WebCam: onboard
