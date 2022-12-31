@@ -15,3 +15,5 @@
 
 
 ![Pic](https://github.com/iskakfatoni/ASUS-A409JP-CORE-I5-with-OPENCORE-HACKINTOSH/blob/a31aed5281aa108a89ea0fd570ee52057b96109e/WhatsApp%20Image%202022-12-31%20at%2007.40.50.jpeg)
+
+![Pic](https://github.com/iskakfatoni/ASUS-A409JP-CORE-I5-with-OPENCORE-HACKINTOSH/blob/cf46636f76bbebbe11f473fc8d0aaf45c28d6982/Screen%20Shot%202022-12-31%20at%2007.33.22.png)
