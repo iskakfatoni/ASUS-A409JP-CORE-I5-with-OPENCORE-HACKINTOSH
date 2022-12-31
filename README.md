@@ -5,12 +5,12 @@
 - Procie : Intel Core i5
 - RAM : 12Gb ddr4
 - eGPU : NVIDIA MX330 (disabled)
-- iGPU : Intel HD Graphics
+- iGPU : Intel HD Graphics 920
 - Sound : ALC256
 - Ethernet : none
 - Wirelles : Intel AC (Not worked)
 - USB Wirelles : TP Link
-- MacOS Storage : 512 PNY ssd m2.nvme
+- MacOS Storage : 512 TEAM ssd m2.nvme
 - WebCam: onboard
 
 
