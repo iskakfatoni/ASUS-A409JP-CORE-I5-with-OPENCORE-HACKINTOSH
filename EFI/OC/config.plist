@@ -200,13 +200,57 @@
 				<key>Arch</key>
 				<string>Any</string>
 				<key>BundlePath</key>
+<<<<<<< HEAD
 				<string>WhateverGreen.kext</string>
+=======
+				<string>SMCBatteryManager.kext</string>
+>>>>>>> 24749e26c454b871d157981c53b46d7f98b4c03c
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
+<<<<<<< HEAD
 				<string>Contents/MacOS/WhateverGreen</string>
+=======
+				<string>Contents/MacOS/SMCBatteryManager</string>
+				<key>MaxKernel</key>
+				<string></string>
+				<key>MinKernel</key>
+				<string></string>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
+			</dict>
+			<dict>
+				<key>Arch</key>
+				<string>Any</string>
+				<key>BundlePath</key>
+				<string>SMCProcessor.kext</string>
+				<key>Comment</key>
+				<string></string>
+				<key>Enabled</key>
+				<true/>
+				<key>ExecutablePath</key>
+				<string>Contents/MacOS/SMCProcessor</string>
+				<key>MaxKernel</key>
+				<string></string>
+				<key>MinKernel</key>
+				<string></string>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
+			</dict>
+			<dict>
+				<key>Arch</key>
+				<string>Any</string>
+				<key>BundlePath</key>
+				<string>AirportBrcmFixup.kext</string>
+				<key>Comment</key>
+				<string></string>
+				<key>Enabled</key>
+				<false/>
+				<key>ExecutablePath</key>
+				<string>Contents/MacOS/AirportBrcmFixup</string>
+>>>>>>> 24749e26c454b871d157981c53b46d7f98b4c03c
 				<key>MaxKernel</key>
 				<string></string>
 				<key>MinKernel</key>
@@ -236,6 +280,7 @@
 				<key>Arch</key>
 				<string>Any</string>
 				<key>BundlePath</key>
+<<<<<<< HEAD
 				<string>itlwm.kext</string>
 				<key>Comment</key>
 				<string></string>
@@ -279,6 +324,15 @@
 				<true/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/SMCProcessor</string>
+=======
+				<string>AtherosE2200Ethernet.kext</string>
+				<key>Comment</key>
+				<string></string>
+				<key>Enabled</key>
+				<false/>
+				<key>ExecutablePath</key>
+				<string>Contents/MacOS/AtherosE2200Ethernet</string>
+>>>>>>> 24749e26c454b871d157981c53b46d7f98b4c03c
 				<key>MaxKernel</key>
 				<string></string>
 				<key>MinKernel</key>
@@ -326,6 +380,45 @@
 				<key>Arch</key>
 				<string>Any</string>
 				<key>BundlePath</key>
+<<<<<<< HEAD
+=======
+				<string>IntelMausi.kext</string>
+				<key>Comment</key>
+				<string></string>
+				<key>Enabled</key>
+				<false/>
+				<key>ExecutablePath</key>
+				<string>Contents/MacOS/IntelMausi</string>
+				<key>MaxKernel</key>
+				<string></string>
+				<key>MinKernel</key>
+				<string></string>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
+			</dict>
+			<dict>
+				<key>Arch</key>
+				<string>Any</string>
+				<key>BundlePath</key>
+				<string>RealtekRTL8111.kext</string>
+				<key>Comment</key>
+				<string></string>
+				<key>Enabled</key>
+				<false/>
+				<key>ExecutablePath</key>
+				<string>Contents/MacOS/RealtekRTL8111</string>
+				<key>MaxKernel</key>
+				<string></string>
+				<key>MinKernel</key>
+				<string></string>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
+			</dict>
+			<dict>
+				<key>Arch</key>
+				<string>Any</string>
+				<key>BundlePath</key>
+>>>>>>> 24749e26c454b871d157981c53b46d7f98b4c03c
 				<string>RestrictEvents.kext</string>
 				<key>Comment</key>
 				<string></string>
@@ -348,7 +441,11 @@
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
+<<<<<<< HEAD
 				<false/>
+=======
+				<true/>
+>>>>>>> 24749e26c454b871d157981c53b46d7f98b4c03c
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/USBInjectAll</string>
 				<key>MaxKernel</key>
@@ -362,11 +459,72 @@
 				<key>Arch</key>
 				<string>Any</string>
 				<key>BundlePath</key>
+<<<<<<< HEAD
+=======
+				<string>VirtualSMC.kext/Contents/Plugins/SMCBatteryManager.kext</string>
+				<key>Comment</key>
+				<string></string>
+				<key>Enabled</key>
+				<true/>
+				<key>ExecutablePath</key>
+				<string>Contents/MacOS/SMCBatteryManager</string>
+				<key>MaxKernel</key>
+				<string></string>
+				<key>MinKernel</key>
+				<string></string>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
+			</dict>
+			<dict>
+				<key>Arch</key>
+				<string>Any</string>
+				<key>BundlePath</key>
+				<string>VirtualSMC.kext/Contents/Plugins/SMCLightSensor.kext</string>
+				<key>Comment</key>
+				<string></string>
+				<key>Enabled</key>
+				<true/>
+				<key>ExecutablePath</key>
+				<string>Contents/MacOS/SMCLightSensor</string>
+				<key>MaxKernel</key>
+				<string></string>
+				<key>MinKernel</key>
+				<string></string>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
+			</dict>
+			<dict>
+				<key>Arch</key>
+				<string>Any</string>
+				<key>BundlePath</key>
+				<string>VirtualSMC.kext/Contents/Plugins/SMCProcessor.kext</string>
+				<key>Comment</key>
+				<string></string>
+				<key>Enabled</key>
+				<true/>
+				<key>ExecutablePath</key>
+				<string>Contents/MacOS/SMCProcessor</string>
+				<key>MaxKernel</key>
+				<string></string>
+				<key>MinKernel</key>
+				<string></string>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
+			</dict>
+			<dict>
+				<key>Arch</key>
+				<string>Any</string>
+				<key>BundlePath</key>
+>>>>>>> 24749e26c454b871d157981c53b46d7f98b4c03c
 				<string>VoodooI2C.kext/Contents/PlugIns/VoodooGPIO.kext</string>
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
+<<<<<<< HEAD
 				<false/>
+=======
+				<true/>
+>>>>>>> 24749e26c454b871d157981c53b46d7f98b4c03c
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/VoodooGPIO</string>
 				<key>MaxKernel</key>
@@ -384,7 +542,11 @@
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
+<<<<<<< HEAD
 				<false/>
+=======
+				<true/>
+>>>>>>> 24749e26c454b871d157981c53b46d7f98b4c03c
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/VoodooI2CServices</string>
 				<key>MaxKernel</key>
@@ -402,7 +564,11 @@
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
+<<<<<<< HEAD
 				<false/>
+=======
+				<true/>
+>>>>>>> 24749e26c454b871d157981c53b46d7f98b4c03c
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/VoodooInput</string>
 				<key>MaxKernel</key>
@@ -488,6 +654,27 @@
 				<key>Arch</key>
 				<string>Any</string>
 				<key>BundlePath</key>
+<<<<<<< HEAD
+=======
+				<string>WhateverGreen.kext</string>
+				<key>Comment</key>
+				<string></string>
+				<key>Enabled</key>
+				<true/>
+				<key>ExecutablePath</key>
+				<string>Contents/MacOS/WhateverGreen</string>
+				<key>MaxKernel</key>
+				<string></string>
+				<key>MinKernel</key>
+				<string></string>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
+			</dict>
+			<dict>
+				<key>Arch</key>
+				<string>Any</string>
+				<key>BundlePath</key>
+>>>>>>> 24749e26c454b871d157981c53b46d7f98b4c03c
 				<string>XHCI-unsupported.kext</string>
 				<key>Comment</key>
 				<string></string>
@@ -556,6 +743,7 @@
 				<key>PlistPath</key>
 				<string>Contents/Info.plist</string>
 			</dict>
+<<<<<<< HEAD
 			<dict>
 				<key>Arch</key>
 				<string>Any</string>
@@ -574,6 +762,8 @@
 				<key>PlistPath</key>
 				<string>Contents/Info.plist</string>
 			</dict>
+=======
+>>>>>>> 24749e26c454b871d157981c53b46d7f98b4c03c
 		</array>
 		<key>Block</key>
 		<array/>
@@ -817,7 +1007,11 @@
 			<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
 			<dict>
 				<key>boot-args</key>
+<<<<<<< HEAD
 				<string>-v alcid=20 watchdog=0 igfxonln=1 agdpmod=vit9696 -vi2c-force-polling -igfxblr -noDC9 igfxfw=2 -revsbvmm -igfxdbeo -wegnoegpu</string>
+=======
+				<string>-v alcid=5 watchdog=0 igfxonln=1 agdpmod=vit9696 -vi2c-force-polling -igfxblr -noDC9 igfxfw=2 -revsbvmm -igfxdbeo -wegnoegpu</string>
+>>>>>>> 24749e26c454b871d157981c53b46d7f98b4c03c
 				<key>csr-active-config</key>
 				<data>hwcAAA==</data>
 				<key>prev-lang:kbd</key>
@@ -1002,7 +1196,11 @@
 			<key>MinimumAudibleGain</key>
 			<integer>-128</integer>
 			<key>PlayChime</key>
+<<<<<<< HEAD
 			<string>Enabled</string>
+=======
+			<string>Auto</string>
+>>>>>>> 24749e26c454b871d157981c53b46d7f98b4c03c
 			<key>ResetTrafficClass</key>
 			<false/>
 			<key>SetupDelay</key>
@@ -1034,6 +1232,7 @@
 				<key>LoadEarly</key>
 				<false/>
 				<key>Path</key>
+<<<<<<< HEAD
 				<string>AudioDxe.efi</string>
 			</dict>
 			<dict>
@@ -1094,6 +1293,8 @@
 				<key>LoadEarly</key>
 				<false/>
 				<key>Path</key>
+=======
+>>>>>>> 24749e26c454b871d157981c53b46d7f98b4c03c
 				<string>NvmExpressDxe.efi</string>
 			</dict>
 			<dict>

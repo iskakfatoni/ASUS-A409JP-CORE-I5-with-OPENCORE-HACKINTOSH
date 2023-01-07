@@ -3,7 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>BuildMachineOSBuild</key>
+<<<<<<< HEAD
+<<<<<<<< HEAD:EFI/OC/Kexts/WhateverGreen.kext/Contents/Info.plist
 	<string>21G320</string>
+========
+	<string>21G217</string>
+>>>>>>>> 24749e26c454b871d157981c53b46d7f98b4c03c:EFI 0.7.7/OC/Kexts/WhateverGreen.kext/Contents/Info.plist
+=======
+	<string>21G217</string>
+>>>>>>> 24749e26c454b871d157981c53b46d7f98b4c03c
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleExecutable</key>
@@ -17,7 +25,15 @@
 	<key>CFBundlePackageType</key>
 	<string>KEXT</string>
 	<key>CFBundleShortVersionString</key>
+<<<<<<< HEAD
+<<<<<<<< HEAD:EFI/OC/Kexts/WhateverGreen.kext/Contents/Info.plist
 	<string>1.6.3</string>
+========
+	<string>1.6.2</string>
+>>>>>>>> 24749e26c454b871d157981c53b46d7f98b4c03c:EFI 0.7.7/OC/Kexts/WhateverGreen.kext/Contents/Info.plist
+=======
+	<string>1.6.2</string>
+>>>>>>> 24749e26c454b871d157981c53b46d7f98b4c03c
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -25,7 +41,15 @@
 		<string>MacOSX</string>
 	</array>
 	<key>CFBundleVersion</key>
+<<<<<<< HEAD
+<<<<<<<< HEAD:EFI/OC/Kexts/WhateverGreen.kext/Contents/Info.plist
 	<string>1.6.3</string>
+========
+	<string>1.6.2</string>
+>>>>>>>> 24749e26c454b871d157981c53b46d7f98b4c03c:EFI 0.7.7/OC/Kexts/WhateverGreen.kext/Contents/Info.plist
+=======
+	<string>1.6.2</string>
+>>>>>>> 24749e26c454b871d157981c53b46d7f98b4c03c
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
